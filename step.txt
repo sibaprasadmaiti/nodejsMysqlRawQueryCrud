@@ -1,0 +1,6 @@
+Simple CRUD Application
+=========================
+Install dependencies packages...
+1) nmp init
+2) npm install express body-parser cors mysql2 exceljs
+3) npm install -g nodemon
